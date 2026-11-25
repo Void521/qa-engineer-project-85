@@ -30,7 +30,7 @@
 ### Стек
 * Git, GitHub
 * YAML, Markdown
-* Google Chrome 156.0.8078.48
+* Google Chrome 158.0.8127.37
 * Ручное тестирование
 
 <details>
