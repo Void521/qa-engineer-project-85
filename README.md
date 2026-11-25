@@ -7,12 +7,6 @@
 Учебный проект Хекслета: https://ru.hexlet.io/programs/qa-engineer
 Как это должно работать: https://codebattle.hexlet.io/
 
-### Стек
-* Git, GitHub
-* YAML, Markdown
-* Google Chrome 156.0.8078.48
-* Ручное тестирование
-
 ### О проекте
 В рамках учебного QA-проекта проводится ручное тестирование в продакшене открытого веб-приложения [Codebattle](https://codebattle.hexlet.io/) — онлайн-платформы для соревнований по программированию в реальном времени.
 
@@ -32,6 +26,12 @@
 * `reopened_issues.yml` — неисправленные баги.
 
 ---
+
+### Стек
+* Git, GitHub
+* YAML, Markdown
+* Google Chrome 156.0.8078.48
+* Ручное тестирование
 
 <details>
 <summary>Автоматические тесты Хекслета</summary>
